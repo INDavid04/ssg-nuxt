@@ -1,0 +1,22 @@
+body {
+  background-color: #333;
+  color: #fff;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: #F7FF00;
+}
+
+a:focus, a:hover {
+  text-decoration: none;
+}
+
+footer {
+  text-align: center;
+  font-size: 1.4rem;
+}/*# sourceMappingURL=styles.css.map */
